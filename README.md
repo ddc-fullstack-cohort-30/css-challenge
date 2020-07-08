@@ -1,2 +1,2 @@
 # css-challenge
-CSS Challenge (show me what you got)
+The assignment for the CSS Challenge.  Instructions can be found in index.html.
